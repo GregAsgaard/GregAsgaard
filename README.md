@@ -1,16 +1,24 @@
-## Hi there 👋
+### Dr. Gregory Asgaard | Asgaard Paths
+**PhD Behavioral Science | International Supply Chain Investigation**
 
-<!--
-**GregAsgaard/GregAsgaard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> *"Verification First. Actions Over Words. The Goal is Vindication."*
 
-Here are some ideas to get you started:
+I specialize in **Asgaard Protocol** auditing—a forensic approach to International Supply Chain Investigation and AI Audit. My work neutralizes systemic bias, detects algorithmic deception, and restores truth to global trade corridors using rigorous statistical verification.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Core Competencies:**
+* 🛡️ **International Supply Chain Investigation:** Forensic verification of "Black Box" logistics.
+* 🤖 **AI Audit & Bias Detection:** Counterfactual analysis using the 4/5th rule & Python-based validation.
+* 🧠 **Behavioral Science:** PhD-level profiling of systemic anomalies.
+
+---
+
+### 🌐 Official Headquarters
+**[www.asgaardpaths.com](https://www.asgaardpaths.com)**
+*For audits, consultation, and forensic data analysis.*
+
+### 📚 Author
+**[Welcome Home Warzone: A Memoir](https://www.amazon.com/dp/1970157771)**
+*#1 International Bestseller*
+
+---
+*“Jai Yen” (Cool Heart) — Rationality under pressure.*
